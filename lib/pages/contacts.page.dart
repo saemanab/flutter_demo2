@@ -5,18 +5,43 @@ class ContactsPage extends StatelessWidget {
   final List<Map<String, String>> contacts = [
     {
       'name': 'Saad El Mabrouk',
-      'email': 'saad@example.com',
+      'email': 'saad.elmabrouk@icloud.com',
       'phone': '+212 612345678'
     },
     {
       'name': 'Kylian Mbappe.',
-      'email': 'Kmbappe@example.com',
+      'email': 'k.mbappe@realmadrid.com',
       'phone': '+34 623456789'
     },
     {
       'name': 'Fede Valverdi',
-      'email': 'Fvalverdi@example.com',
+      'email': 'f.valverde@example.com',
+      'phone': '+34 634510290'
+    },
+    {
+      'name': 'Arda Guler',
+      'email': 'a.guler@realmadrid.com',
+      'phone': '+34 634712890'
+    },
+    {
+      'name': 'Brahim Diaz',
+      'email': 'b.diaz@realmadrid.com',
       'phone': '+34 634567890'
+    },
+    {
+      'name': 'Achraf Hakimi',
+      'email': 'a.hakimi@psg.com',
+      'phone': '+33 630123890'
+    },
+    {
+      'name': 'Yassine bounou',
+      'email': 'y.bounou@hilal.com',
+      'phone': '+966 630123890'
+    },
+    {
+      'name': 'Dean Huijsen',
+      'email': 'd.huijsen@realmadrid.com',
+      'phone': '+34 630123980'
     },
   ];
 
