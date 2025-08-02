@@ -40,7 +40,7 @@ This is a Flutter-based mobile application developed as part of the BDCC (Big Da
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/saadbr/demo_app_2.git
+   git clone https://github.com/saemanab/flutter_demo2.git
    cd demo_app_2
    ```
 
@@ -60,7 +60,7 @@ This is a Flutter-based mobile application developed as part of the BDCC (Big Da
 
 ## 👨‍💻 Author
 
-**Saad El Mabrouk**  
+**Mohamed Abiaba**  
 
 ---
 
